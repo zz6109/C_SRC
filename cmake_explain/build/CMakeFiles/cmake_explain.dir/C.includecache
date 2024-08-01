@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kimjaehwan/c_SRC/cmake_explain/average.c
+
+/home/kimjaehwan/c_SRC/cmake_explain/input.c
+stdio.h
+-
+
+/home/kimjaehwan/c_SRC/cmake_explain/main.c
+stdio.h
+-
+

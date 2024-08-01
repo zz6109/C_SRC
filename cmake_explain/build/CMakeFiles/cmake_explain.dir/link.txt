@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cmake_explain.dir/input.c.o CMakeFiles/cmake_explain.dir/average.c.o CMakeFiles/cmake_explain.dir/main.c.o -o cmake_explain 
